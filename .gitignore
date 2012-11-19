@@ -11,6 +11,8 @@ code/Makefile
 code/cmake_install.cmake
 code/libassimpD.so
 code/libassimpD.so.*
+code/libassimp.so
+code/libassimp.so.*
 contrib/zlib/CMakeFiles/
 contrib/zlib/Makefile
 contrib/zlib/cmake_install.cmake
